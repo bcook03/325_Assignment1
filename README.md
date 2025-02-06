@@ -19,4 +19,7 @@ greet("Hello, World!")
 </code>
 (A file is also included with the proper indentation)
 
-### Pet Picture
+### Charlie's Picture
+This a picture of my cat Charlie. We've had her for about 8 years now.
+
+[Charlie]()
