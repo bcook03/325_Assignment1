@@ -19,6 +19,22 @@ greet("Hello, World!")
 </code>
 (The file for the program is also included)
 
+## Second Python File
+The second file gets the time.
+
+<code>
+import time
+
+def getTime(func):
+    def wrapper(*args):
+        print("The time is: ", time.time())
+        
+@getTime
+def ctime():
+    ctime()
+</code>
+
+
 ### Charlie's Picture
 This a picture of my cat Charlie. We've had her for about 8 years now. She is my favorite of the three.
 
