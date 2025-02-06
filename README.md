@@ -22,4 +22,4 @@ greet("Hello, World!")
 ### Charlie's Picture
 This a picture of my cat Charlie. We've had her for about 8 years now.
 
-[Charlie]()
+[Charlie](IMG_0156.JPG)
