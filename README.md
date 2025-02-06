@@ -20,6 +20,6 @@ greet("Hello, World!")
 (The file for the program is also included)
 
 ### Charlie's Picture
-This a picture of my cat Charlie. We've had her for about 8 years now.
+This a picture of my cat Charlie. We've had her for about 8 years now. She is my favorite of the three.
 
 ![Charlie](IMG_0156.JPG)
